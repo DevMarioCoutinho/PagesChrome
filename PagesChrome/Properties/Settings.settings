@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PagesChrome.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Conn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=DESKTOP-T7D96U5;Initial Catalog=Automation;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="ChromeDrive" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
